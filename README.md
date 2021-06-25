@@ -1,2 +1,2 @@
 # Credits
-Template was created by Tenzin Phuljung and edited by Jakob Wolitzki.
+Template was created by Tenzin Phuljung and edited by Zaki Hasan.
