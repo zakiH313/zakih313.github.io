@@ -25,6 +25,10 @@ const Portfolio = (function () {
         text: "SQL",
         weight: 13,
       },
+      {
+        text: "Machine Learning",
+        weight: 13,
+      },
     ];
     return words;
   }
