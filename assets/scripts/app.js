@@ -7,7 +7,7 @@ const Portfolio = (function () {
       },
       {
         text: "CSS",
-        weight: 10,
+        weight: 12.3,
       },
       {
         text: "JavaScript",
@@ -15,7 +15,7 @@ const Portfolio = (function () {
       },
       {
         text: "HTML",
-        weight: 11,
+        weight: 13,
       },
       {
         text: "Python",
