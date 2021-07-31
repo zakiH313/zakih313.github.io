@@ -3,31 +3,31 @@ const Portfolio = (function () {
     var words = [
       {
         text: "Mathematics",
-        weight: 12.3,
+        weight: 1,
       },
       {
         text: "CSS",
-        weight: 12.3,
+        weight: 1,
       },
       {
         text: "JavaScript",
-        weight: 14,
+        weight: 1,
       },
       {
         text: "HTML",
-        weight: 13,
+        weight: 1,
       },
       {
         text: "Python",
-        weight: 15,
+        weight: 1,
       },
       {
         text: "SQL",
-        weight: 13,
+        weight: 1,
       },
       {
         text: "Machine Learning",
-        weight: 13,
+        weight: 1,
       },
     ];
     return words;
